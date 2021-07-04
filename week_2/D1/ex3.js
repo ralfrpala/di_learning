@@ -3,4 +3,5 @@ console.log(pets[1])
 pets.splice(4,0,"horse")
 // pets.push("horse")
 pets.splice(3,1)
-console.log(pets.length)
+console.log(pets.length)//output is 5
+
