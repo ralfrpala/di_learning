@@ -1,0 +1,50 @@
+body {
+	margin: auto 0;
+	background-image: url(https://images8.alphacoders.com/282/thumb-1920-282535.jpg);
+	font-family: "Arial";
+}
+
+
+.bar {
+	display:flex;
+	list-style:none;
+	font-size:1em;
+	margin: 0;
+	background-color: darkred;
+	width: 100%;
+	position:fixed ;
+	top: 0;
+
+}
+
+.bar: hover{
+
+}
+
+li {
+	padding:10px;
+	display:flex;
+	list-style:none;
+	font-size:1.5em;
+	margin: 0;
+	display: inline-block;
+}
+
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+h1, p {
+	color: #D46A6A;
+	padding:20px;
+}
+h1 {
+	font-size: 33px;
+	letter-spacing: 5px;
+}
+p{
+	width: 38%;
+	font-size: 26px;
+}
