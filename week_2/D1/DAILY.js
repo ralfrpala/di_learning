@@ -1,6 +1,6 @@
 //exercise 1
 let fruits = ["Banana", "Apples", "Oranges", "Blueberries"];
-fruits.splice(0,1)//remove banana
+fruits.shift()//remove banana (first item in the array)
 fruits.sort() //sort to abc order
 fruits.push("Kiwi")//add kiwi
 fruits.splice(0,1)//i dont know any other methods. (remove apple)
