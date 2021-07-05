@@ -11,3 +11,8 @@
     false - true //guess:?? answer:-1
     3 - 4 //guess: -1 answer: -1
     "Bob" - "bill" //guess:NaN answer: NaN
+
+
+// 6 out of 13
+//true is 1
+//false is -1
