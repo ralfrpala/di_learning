@@ -12,15 +12,15 @@ function beer() {
 		console.log(beers+" bottles of beer on the wall, "+beers+" bottles of beer")
 		beers= beers-i
 		if (beers<0) {
-			console.log("got to go to the market to get more beer bottles of beer for the wall")
+			console.log("got to go to the market to get more beer bottles of beer for the wall") //end
 			return
 		}
 		console.log("take "+i+" out")
 		if (i==1) {
-			console.log("pass it around")
+			console.log("pass it around") //correct grammar
 		}else{console.log("pass them around")}
 		console.log(beers+" bottles of beer on the wall!")
-		console.log(" ")
+		console.log(" ") // space
 
 	}
 }
