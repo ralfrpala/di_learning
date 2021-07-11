@@ -25,3 +25,6 @@ function beer() {
 	}
 }
 beer()
+
+//make an alternitave where you choose how many bottles are on the wall
+//i understood the assignment wrong
