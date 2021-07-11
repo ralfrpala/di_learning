@@ -20,7 +20,7 @@ function beer() {
 			console.log("pass it around") //correct grammar
 		}else{console.log("pass them around")}
 		console.log(beers+" bottles of beer on the wall!")
-		console.log(" ") // space
+		console.log(" ") // spacing
 
 	}
 }
