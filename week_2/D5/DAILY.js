@@ -12,7 +12,7 @@ function beer() {
 		console.log(beers+" bottles of beer on the wall, "+beers+" bottles of beer")
 		beers= beers-i
 		if (beers<0) {
-			console.log("got to go to the market to get more beer bottles of beers for the wall")
+			console.log("got to go to the market to get more beer bottles of beer for the wall")
 			return
 		}
 		console.log("take "+i+" out")
